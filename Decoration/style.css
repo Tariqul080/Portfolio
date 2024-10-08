@@ -79,11 +79,6 @@ nav a{
     margin-top: 5px;
     margin-bottom: 20px;
 }
-
-.classy-faction{
-
-}
-
 .banner-content{
     width : 500px;
 }
@@ -157,3 +152,86 @@ main{
     font-size: 30px;
     font-weight: 700;
 }
+.Resume-container{
+    display: flex;
+    gap: 50px;
+}
+
+.resume-item-description{
+    color: #474747;
+    margin-top: 10px;
+}
+
+.resume-item-title{
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.resume-item-institute{
+    font-size: 20px;
+    color: #555555;
+    margin-top: 0px;
+}  
+
+.DownloadCV{
+    text-align: center;
+}
+.DownloadCV> button{
+    background-color: #FD6E0A;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+/* Style in Footer */
+.Footer{
+    width: 1140px;
+    margin: 0 auto;
+    background: #FFF8F3;
+
+    margin-top: 130px;
+}
+
+#img{
+    width: 40px;
+    height: 40px;
+    background-color: #FD6E0A;
+    border-radius: 50%;
+}
+
+.icon-container{
+    text-align: center;
+}
+
+.input-container{
+    text-align: center;
+}
+
+.footer-container{
+    display: flex;
+    gap: 30px;
+   
+    
+}
+
+.colum-section{
+    width: 50%;
+}
+
+.contact input{
+    width: 80%;
+    display: block;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+textarea{
+    width: 80%;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+
+
